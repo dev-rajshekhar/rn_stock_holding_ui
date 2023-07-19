@@ -1,0 +1,11 @@
+# .maestro/app.yaml
+appId: org.reactjs.native.example.UpstoxAssignment # applicationId
+---
+- launchApp
+- scrollUntilVisible:
+    element:
+      id: 'flatlist-holdings'
+    direction: DOWN
+    timeout: 50000
+    speed: 40
+    visibilityPercentage: 100
