@@ -18,6 +18,10 @@ To learn more about React Native, take a look at the following resources:
 
 
   # Screenshot
-    <img src = './media/ios.png'>
 
+
+
+  <img src="./media/ios.png" width="300" style="margin-right: 20px;">
+
+https://github.com/dev-rajshekhar/rn_stock_holding_ui/assets/58744471/faa61158-4180-477e-a6b5-02d00a49585c
 
